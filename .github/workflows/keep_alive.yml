@@ -13,7 +13,7 @@ jobs:
     permissions:
       actions: write
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v7
       - uses: gautamkrishnar/keepalive-workflow@v2
         with:
           time_elapsed: '45'   # only act if last commit was 45+ days ago
