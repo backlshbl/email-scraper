@@ -1,7 +1,7 @@
 {
-    "roles": ["Founder", "Clinic Director", "CEO"],
-    "industries": ["Hospital", "Clinic", "Healthcare"],
-    "countries": ["United States", "United Kingdom"],
+    "roles": ["Founder", "Director", "CEO"],
+    "industries": ["IT","Software"],
+    "countries": ["India"],
     "max_sites": 30,
     "crawl_delay": 0.75,
     "search_delay": 3.0,
