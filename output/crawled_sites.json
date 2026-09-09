@@ -1,0 +1,1507 @@
+{
+  "www.freeclinics.com": {
+    "first_crawled": "2026-08-11T13:59:10.385728+00:00",
+    "last_crawled": "2026-08-11T13:59:10.385728+00:00",
+    "crawl_count": 1
+  },
+  "www.cvs.com": {
+    "first_crawled": "2026-08-11T14:00:49.005085+00:00",
+    "last_crawled": "2026-08-11T14:00:49.005085+00:00",
+    "crawl_count": 1
+  },
+  "newyorkmedicalclinic.com": {
+    "first_crawled": "2026-08-11T14:00:52.021918+00:00",
+    "last_crawled": "2026-08-11T14:00:52.021918+00:00",
+    "crawl_count": 1
+  },
+  "www.amaehealth.com": {
+    "first_crawled": "2026-08-11T14:01:52.734943+00:00",
+    "last_crawled": "2026-08-11T14:01:52.734943+00:00",
+    "crawl_count": 1
+  },
+  "www.cases.org": {
+    "first_crawled": "2026-08-11T14:03:49.344262+00:00",
+    "last_crawled": "2026-08-11T14:03:49.344262+00:00",
+    "crawl_count": 1
+  },
+  "chatgpt.com": {
+    "first_crawled": "2026-08-11T14:05:51.751438+00:00",
+    "last_crawled": "2026-08-11T14:05:51.751438+00:00",
+    "crawl_count": 1
+  },
+  "www.grammarly.com": {
+    "first_crawled": "2026-08-11T14:05:53.686736+00:00",
+    "last_crawled": "2026-08-11T14:05:53.686736+00:00",
+    "crawl_count": 1
+  },
+  "ai-writer.app": {
+    "first_crawled": "2026-08-11T14:05:54.019472+00:00",
+    "last_crawled": "2026-08-11T14:05:54.019472+00:00",
+    "crawl_count": 1
+  },
+  "www.southsidemedclinic.com": {
+    "first_crawled": "2026-08-12T08:13:05.115331+00:00",
+    "last_crawled": "2026-08-12T08:13:05.115331+00:00",
+    "crawl_count": 1
+  },
+  "physician.quanum.questdiagnostics.com": {
+    "first_crawled": "2026-08-12T08:14:30.280751+00:00",
+    "last_crawled": "2026-08-12T08:14:30.280751+00:00",
+    "crawl_count": 1
+  },
+  "www.phpmcs.com": {
+    "first_crawled": "2026-08-12T08:15:06.832075+00:00",
+    "last_crawled": "2026-08-12T08:15:06.832075+00:00",
+    "crawl_count": 1
+  },
+  "eznetportal.pihhealth.org": {
+    "first_crawled": "2026-08-12T08:15:52.414609+00:00",
+    "last_crawled": "2026-08-12T08:15:52.414609+00:00",
+    "crawl_count": 1
+  },
+  "www.olympicmedical.org": {
+    "first_crawled": "2026-08-12T08:17:01.427960+00:00",
+    "last_crawled": "2026-08-12T08:17:01.427960+00:00",
+    "crawl_count": 1
+  },
+  "tucsonortho.com": {
+    "first_crawled": "2026-08-12T08:18:50.687876+00:00",
+    "last_crawled": "2026-08-12T08:18:50.687876+00:00",
+    "crawl_count": 1
+  },
+  "www.encompasshealth.com": {
+    "first_crawled": "2026-08-12T08:25:01.797316+00:00",
+    "last_crawled": "2026-08-12T08:25:01.797316+00:00",
+    "crawl_count": 1
+  },
+  "www.inova.org": {
+    "first_crawled": "2026-08-12T08:26:37.018201+00:00",
+    "last_crawled": "2026-08-12T08:26:37.018201+00:00",
+    "crawl_count": 1
+  },
+  "providers.ccbh.com": {
+    "first_crawled": "2026-08-12T08:31:39.040358+00:00",
+    "last_crawled": "2026-08-12T08:31:39.040358+00:00",
+    "crawl_count": 1
+  },
+  "providers.highmark.com": {
+    "first_crawled": "2026-08-12T08:33:25.584656+00:00",
+    "last_crawled": "2026-08-12T08:33:25.584656+00:00",
+    "crawl_count": 1
+  },
+  "www.healthpartners.com": {
+    "first_crawled": "2026-08-12T08:34:27.245255+00:00",
+    "last_crawled": "2026-08-12T08:34:27.245255+00:00",
+    "crawl_count": 1
+  },
+  "www.primehealthcare.com": {
+    "first_crawled": "2026-08-12T08:44:21.991677+00:00",
+    "last_crawled": "2026-08-12T08:44:21.991677+00:00",
+    "crawl_count": 1
+  },
+  "www.pfizer.com": {
+    "first_crawled": "2026-08-12T08:45:48.023813+00:00",
+    "last_crawled": "2026-08-12T08:45:48.023813+00:00",
+    "crawl_count": 1
+  },
+  "www.trinity-health.org": {
+    "first_crawled": "2026-08-12T08:49:11.130851+00:00",
+    "last_crawled": "2026-08-12T08:49:11.130851+00:00",
+    "crawl_count": 1
+  },
+  "www.advocatehealth.org": {
+    "first_crawled": "2026-08-12T08:49:13.149566+00:00",
+    "last_crawled": "2026-08-12T08:49:13.149566+00:00",
+    "crawl_count": 1
+  },
+  "www.piedmont.org": {
+    "first_crawled": "2026-08-12T08:50:30.335814+00:00",
+    "last_crawled": "2026-08-12T08:50:30.335814+00:00",
+    "crawl_count": 1
+  },
+  "www.healthonecares.com": {
+    "first_crawled": "2026-08-12T08:51:49.846742+00:00",
+    "last_crawled": "2026-08-12T08:51:49.846742+00:00",
+    "crawl_count": 1
+  },
+  "www.phoenix.gov": {
+    "first_crawled": "2026-08-14T07:16:52.350260+00:00",
+    "last_crawled": "2026-08-14T07:16:52.350260+00:00",
+    "crawl_count": 1
+  },
+  "ceo.oc.gov": {
+    "first_crawled": "2026-08-14T07:21:34.518862+00:00",
+    "last_crawled": "2026-08-14T07:21:34.518862+00:00",
+    "crawl_count": 1
+  },
+  "npiregistry.cms.hhs.gov": {
+    "first_crawled": "2026-08-15T06:30:03.724050+00:00",
+    "last_crawled": "2026-08-15T06:30:03.724050+00:00",
+    "crawl_count": 1
+  },
+  "queencreekhealth.com": {
+    "first_crawled": "2026-08-15T06:35:00.706250+00:00",
+    "last_crawled": "2026-08-15T06:35:00.706250+00:00",
+    "crawl_count": 1
+  },
+  "www.plc-network.com": {
+    "first_crawled": "2026-08-15T06:53:18.613341+00:00",
+    "last_crawled": "2026-08-15T06:53:18.613341+00:00",
+    "crawl_count": 1
+  },
+  "www.vsp.com": {
+    "first_crawled": "2026-08-15T06:56:13.074167+00:00",
+    "last_crawled": "2026-08-15T06:56:13.074167+00:00",
+    "crawl_count": 1
+  },
+  "member.carefirst.com": {
+    "first_crawled": "2026-08-15T06:59:02.412846+00:00",
+    "last_crawled": "2026-08-15T06:59:02.412846+00:00",
+    "crawl_count": 1
+  },
+  "curative.com": {
+    "first_crawled": "2026-08-15T07:00:54.494315+00:00",
+    "last_crawled": "2026-08-15T07:00:54.494315+00:00",
+    "crawl_count": 1
+  },
+  "www.lapresse.ca": {
+    "first_crawled": "2026-08-15T07:01:12.627907+00:00",
+    "last_crawled": "2026-08-15T07:01:12.627907+00:00",
+    "crawl_count": 1
+  },
+  "www.noovomoi.ca": {
+    "first_crawled": "2026-08-15T07:01:14.171132+00:00",
+    "last_crawled": "2026-08-15T07:01:14.171132+00:00",
+    "crawl_count": 1
+  },
+  "jecalcule.ca": {
+    "first_crawled": "2026-08-15T07:01:14.788387+00:00",
+    "last_crawled": "2026-08-15T07:01:14.788387+00:00",
+    "crawl_count": 1
+  },
+  "calendarena.com": {
+    "first_crawled": "2026-08-15T07:01:16.396355+00:00",
+    "last_crawled": "2026-08-15T07:01:16.396355+00:00",
+    "crawl_count": 1
+  },
+  "www.calendriergratuit.fr": {
+    "first_crawled": "2026-08-15T07:01:17.878014+00:00",
+    "last_crawled": "2026-08-15T07:01:17.878014+00:00",
+    "crawl_count": 1
+  },
+  "regardsprotestants.com": {
+    "first_crawled": "2026-08-15T07:01:20.837827+00:00",
+    "last_crawled": "2026-08-15T07:01:20.837827+00:00",
+    "crawl_count": 1
+  },
+  "www.vive-paques.com": {
+    "first_crawled": "2026-08-15T07:01:21.912278+00:00",
+    "last_crawled": "2026-08-15T07:01:21.912278+00:00",
+    "crawl_count": 1
+  },
+  "www.calagenda.fr": {
+    "first_crawled": "2026-08-15T07:01:22.991004+00:00",
+    "last_crawled": "2026-08-15T07:01:22.991004+00:00",
+    "crawl_count": 1
+  },
+  "www.tenforums.com": {
+    "first_crawled": "2026-08-16T06:27:23.952162+00:00",
+    "last_crawled": "2026-08-16T06:27:23.952162+00:00",
+    "crawl_count": 1
+  },
+  "www.hattiesburgclinic.com": {
+    "first_crawled": "2026-08-16T06:29:39.795566+00:00",
+    "last_crawled": "2026-08-16T06:29:39.795566+00:00",
+    "crawl_count": 1
+  },
+  "www.ochsner.org": {
+    "first_crawled": "2026-08-16T06:30:44.116375+00:00",
+    "last_crawled": "2026-08-16T06:30:44.116375+00:00",
+    "crawl_count": 1
+  },
+  "www.nmhs.net": {
+    "first_crawled": "2026-08-16T06:35:31.547739+00:00",
+    "last_crawled": "2026-08-16T06:35:31.547739+00:00",
+    "crawl_count": 1
+  },
+  "providrscare.net": {
+    "first_crawled": "2026-08-16T06:39:05.156987+00:00",
+    "last_crawled": "2026-08-16T06:39:05.156987+00:00",
+    "crawl_count": 1
+  },
+  "account.humana.com": {
+    "first_crawled": "2026-08-16T06:41:38.884009+00:00",
+    "last_crawled": "2026-08-16T06:41:38.884009+00:00",
+    "crawl_count": 1
+  },
+  "www.evicore.com": {
+    "first_crawled": "2026-08-16T06:42:54.256651+00:00",
+    "last_crawled": "2026-08-16T06:42:54.256651+00:00",
+    "crawl_count": 1
+  },
+  "ceo.ca": {
+    "first_crawled": "2026-08-16T06:45:32.264848+00:00",
+    "last_crawled": "2026-08-16T06:45:32.264848+00:00",
+    "crawl_count": 1
+  },
+  "search.cpsa.ca": {
+    "first_crawled": "2026-08-17T06:37:37.602446+00:00",
+    "last_crawled": "2026-08-17T06:37:37.602446+00:00",
+    "crawl_count": 1
+  },
+  "www.yardbarker.com": {
+    "first_crawled": "2026-08-17T06:40:39.485912+00:00",
+    "last_crawled": "2026-08-17T06:40:39.485912+00:00",
+    "crawl_count": 1
+  },
+  "wd3.myworkday.com": {
+    "first_crawled": "2026-08-17T06:43:36.014199+00:00",
+    "last_crawled": "2026-08-17T06:43:36.014199+00:00",
+    "crawl_count": 1
+  },
+  "newgo.wfp.org": {
+    "first_crawled": "2026-08-17T06:43:41.400693+00:00",
+    "last_crawled": "2026-08-17T06:43:41.400693+00:00",
+    "crawl_count": 1
+  },
+  "portal.physiciansapply.ca": {
+    "first_crawled": "2026-08-17T06:48:30.999203+00:00",
+    "last_crawled": "2026-08-17T06:48:30.999203+00:00",
+    "crawl_count": 1
+  },
+  "www.regionsbank.com": {
+    "first_crawled": "2026-08-17T06:48:31.488950+00:00",
+    "last_crawled": "2026-08-17T06:48:31.488950+00:00",
+    "crawl_count": 1
+  },
+  "www.bridgestone.com": {
+    "first_crawled": "2026-08-17T06:50:03.186454+00:00",
+    "last_crawled": "2026-08-17T06:50:03.186454+00:00",
+    "crawl_count": 1
+  },
+  "www.skyscanner.com": {
+    "first_crawled": "2026-08-17T06:57:29.391445+00:00",
+    "last_crawled": "2026-08-17T06:57:29.391445+00:00",
+    "crawl_count": 1
+  },
+  "gr.skyscanner.com": {
+    "first_crawled": "2026-08-17T06:57:30.497787+00:00",
+    "last_crawled": "2026-08-17T06:57:30.497787+00:00",
+    "crawl_count": 1
+  },
+  "www.espanol.skyscanner.com": {
+    "first_crawled": "2026-08-17T06:57:31.726668+00:00",
+    "last_crawled": "2026-08-17T06:57:31.726668+00:00",
+    "crawl_count": 1
+  },
+  "anruibio.com": {
+    "first_crawled": "2026-08-17T06:59:54.856233+00:00",
+    "last_crawled": "2026-08-17T06:59:54.856233+00:00",
+    "crawl_count": 1
+  },
+  "www.sehatok.com": {
+    "first_crawled": "2026-08-17T06:59:56.606764+00:00",
+    "last_crawled": "2026-08-17T06:59:56.606764+00:00",
+    "crawl_count": 1
+  },
+  "www.eremnews.com": {
+    "first_crawled": "2026-08-17T06:59:58.708669+00:00",
+    "last_crawled": "2026-08-17T06:59:58.708669+00:00",
+    "crawl_count": 1
+  },
+  "www.atyabtabkha.com": {
+    "first_crawled": "2026-08-17T06:59:59.969202+00:00",
+    "last_crawled": "2026-08-17T06:59:59.969202+00:00",
+    "crawl_count": 1
+  },
+  "www.amazonforum.com": {
+    "first_crawled": "2026-08-17T07:00:32.027810+00:00",
+    "last_crawled": "2026-08-17T07:00:32.027810+00:00",
+    "crawl_count": 1
+  },
+  "www.bissell.com": {
+    "first_crawled": "2026-08-19T06:30:30.846206+00:00",
+    "last_crawled": "2026-08-19T06:30:30.846206+00:00",
+    "crawl_count": 1
+  },
+  "bestreviews.com": {
+    "first_crawled": "2026-08-19T06:30:39.870925+00:00",
+    "last_crawled": "2026-08-19T06:30:39.870925+00:00",
+    "crawl_count": 1
+  },
+  "ceogaming.org": {
+    "first_crawled": "2026-08-19T06:44:50.696717+00:00",
+    "last_crawled": "2026-08-19T06:44:50.696717+00:00",
+    "crawl_count": 1
+  },
+  "starcommunityhealth.org": {
+    "first_crawled": "2026-08-19T06:48:16.238588+00:00",
+    "last_crawled": "2026-08-19T06:48:16.238588+00:00",
+    "crawl_count": 1
+  },
+  "www.vogue.fr": {
+    "first_crawled": "2026-08-20T06:31:39.105199+00:00",
+    "last_crawled": "2026-08-20T06:31:39.105199+00:00",
+    "crawl_count": 1
+  },
+  "www.beaute-test.com": {
+    "first_crawled": "2026-08-20T06:31:39.391315+00:00",
+    "last_crawled": "2026-08-20T06:31:39.391315+00:00",
+    "crawl_count": 1
+  },
+  "nvidianews.nvidia.com": {
+    "first_crawled": "2026-08-20T06:37:18.963830+00:00",
+    "last_crawled": "2026-08-20T06:37:18.963830+00:00",
+    "crawl_count": 1
+  },
+  "healthtexas.org": {
+    "first_crawled": "2026-08-20T06:44:49.729044+00:00",
+    "last_crawled": "2026-08-20T06:44:49.729044+00:00",
+    "crawl_count": 1
+  },
+  "tcpportal.mamemr.com": {
+    "first_crawled": "2026-08-20T06:47:14.242636+00:00",
+    "last_crawled": "2026-08-20T06:47:14.242636+00:00",
+    "crawl_count": 1
+  },
+  "hpitpa.com": {
+    "first_crawled": "2026-08-20T06:50:07.271911+00:00",
+    "last_crawled": "2026-08-20T06:50:07.271911+00:00",
+    "crawl_count": 1
+  },
+  "www.sentara.com": {
+    "first_crawled": "2026-08-20T06:54:32.135927+00:00",
+    "last_crawled": "2026-08-20T06:54:32.135927+00:00",
+    "crawl_count": 1
+  },
+  "www.unityhealthcare.org": {
+    "first_crawled": "2026-08-20T06:55:20.373151+00:00",
+    "last_crawled": "2026-08-20T06:55:20.373151+00:00",
+    "crawl_count": 1
+  },
+  "www.whitman-walker.org": {
+    "first_crawled": "2026-08-20T06:57:53.193567+00:00",
+    "last_crawled": "2026-08-20T06:57:53.193567+00:00",
+    "crawl_count": 1
+  },
+  "forum.avast.com": {
+    "first_crawled": "2026-08-20T07:00:34.050922+00:00",
+    "last_crawled": "2026-08-20T07:00:34.050922+00:00",
+    "crawl_count": 1
+  },
+  "www.founderit.com": {
+    "first_crawled": "2026-08-21T06:30:15.605820+00:00",
+    "last_crawled": "2026-08-21T06:30:15.605820+00:00",
+    "crawl_count": 1
+  },
+  "www.founder.com.cn": {
+    "first_crawled": "2026-08-21T06:30:16.828759+00:00",
+    "last_crawled": "2026-08-21T06:30:16.828759+00:00",
+    "crawl_count": 1
+  },
+  "www.iciba.com": {
+    "first_crawled": "2026-08-21T06:30:20.904521+00:00",
+    "last_crawled": "2026-08-21T06:30:20.904521+00:00",
+    "crawl_count": 1
+  },
+  "detail.zol.com.cn": {
+    "first_crawled": "2026-08-21T06:30:24.090399+00:00",
+    "last_crawled": "2026-08-21T06:30:24.090399+00:00",
+    "crawl_count": 1
+  },
+  "www.samsclub.com": {
+    "first_crawled": "2026-08-21T06:30:41.624635+00:00",
+    "last_crawled": "2026-08-21T06:30:41.624635+00:00",
+    "crawl_count": 1
+  },
+  "www.nordictrack.com": {
+    "first_crawled": "2026-08-21T06:30:42.065714+00:00",
+    "last_crawled": "2026-08-21T06:30:42.065714+00:00",
+    "crawl_count": 1
+  },
+  "www.topconsumerreviews.com": {
+    "first_crawled": "2026-08-21T06:30:44.358038+00:00",
+    "last_crawled": "2026-08-21T06:30:44.358038+00:00",
+    "crawl_count": 1
+  },
+  "www.mindfulattachmentcoaching.com": {
+    "first_crawled": "2026-08-21T06:32:25.394389+00:00",
+    "last_crawled": "2026-08-21T06:32:25.394389+00:00",
+    "crawl_count": 1
+  },
+  "www.feelandthrive.com": {
+    "first_crawled": "2026-08-21T06:32:26.345058+00:00",
+    "last_crawled": "2026-08-21T06:32:26.345058+00:00",
+    "crawl_count": 1
+  },
+  "www.centralhealth.net": {
+    "first_crawled": "2026-08-21T06:39:49.863793+00:00",
+    "last_crawled": "2026-08-21T06:39:49.863793+00:00",
+    "crawl_count": 1
+  },
+  "www.clinica.org": {
+    "first_crawled": "2026-08-21T06:39:53.765277+00:00",
+    "last_crawled": "2026-08-21T06:39:53.765277+00:00",
+    "crawl_count": 1
+  },
+  "www.cvshealth.com": {
+    "first_crawled": "2026-08-21T06:47:02.197147+00:00",
+    "last_crawled": "2026-08-21T06:47:02.197147+00:00",
+    "crawl_count": 1
+  },
+  "www.lisatmiller.com": {
+    "first_crawled": "2026-08-21T06:47:59.048241+00:00",
+    "last_crawled": "2026-08-21T06:47:59.048241+00:00",
+    "crawl_count": 1
+  },
+  "physicianscareernetwork.com": {
+    "first_crawled": "2026-08-21T06:47:59.561938+00:00",
+    "last_crawled": "2026-08-21T06:47:59.561938+00:00",
+    "crawl_count": 1
+  },
+  "www.advisory.com": {
+    "first_crawled": "2026-08-21T06:54:30.208903+00:00",
+    "last_crawled": "2026-08-21T06:54:30.208903+00:00",
+    "crawl_count": 1
+  },
+  "www.definitivehc.com": {
+    "first_crawled": "2026-08-21T06:57:15.413080+00:00",
+    "last_crawled": "2026-08-21T06:57:15.413080+00:00",
+    "crawl_count": 1
+  },
+  "www.aha.org": {
+    "first_crawled": "2026-08-21T06:59:51.962933+00:00",
+    "last_crawled": "2026-08-21T06:59:51.962933+00:00",
+    "crawl_count": 1
+  },
+  "www.chanevada.org": {
+    "first_crawled": "2026-08-21T07:01:59.847701+00:00",
+    "last_crawled": "2026-08-21T07:01:59.847701+00:00",
+    "crawl_count": 1
+  },
+  "www.nnhopes.org": {
+    "first_crawled": "2026-08-21T07:05:54.704855+00:00",
+    "last_crawled": "2026-08-21T07:05:54.704855+00:00",
+    "crawl_count": 1
+  },
+  "www.rsic.org": {
+    "first_crawled": "2026-08-21T07:08:23.343387+00:00",
+    "last_crawled": "2026-08-21T07:08:23.343387+00:00",
+    "crawl_count": 1
+  },
+  "www.mlssoccer.com": {
+    "first_crawled": "2026-08-23T06:27:22.316214+00:00",
+    "last_crawled": "2026-08-23T06:27:22.316214+00:00",
+    "crawl_count": 1
+  },
+  "www.cpspei.ca": {
+    "first_crawled": "2026-08-23T06:28:07.721971+00:00",
+    "last_crawled": "2026-08-23T06:28:07.721971+00:00",
+    "crawl_count": 1
+  },
+  "investment-bankers.org": {
+    "first_crawled": "2026-08-23T06:31:35.633357+00:00",
+    "last_crawled": "2026-08-23T06:31:35.633357+00:00",
+    "crawl_count": 1
+  },
+  "www.accountingtools.com": {
+    "first_crawled": "2026-08-23T06:31:35.887642+00:00",
+    "last_crawled": "2026-08-23T06:31:35.887642+00:00",
+    "crawl_count": 1
+  },
+  "smartasset.com": {
+    "first_crawled": "2026-08-23T06:31:39.873263+00:00",
+    "last_crawled": "2026-08-23T06:31:39.873263+00:00",
+    "crawl_count": 1
+  },
+  "www.careerprinciples.com": {
+    "first_crawled": "2026-08-23T06:31:40.076986+00:00",
+    "last_crawled": "2026-08-23T06:31:40.076986+00:00",
+    "crawl_count": 1
+  },
+  "www.cnyfertility.com": {
+    "first_crawled": "2026-08-23T06:37:54.837597+00:00",
+    "last_crawled": "2026-08-23T06:37:54.837597+00:00",
+    "crawl_count": 1
+  },
+  "www.ahn.org": {
+    "first_crawled": "2026-08-23T06:50:34.016099+00:00",
+    "last_crawled": "2026-08-23T06:50:34.016099+00:00",
+    "crawl_count": 1
+  },
+  "www.coxhealthplans.com": {
+    "first_crawled": "2026-08-23T06:54:21.325504+00:00",
+    "last_crawled": "2026-08-23T06:54:21.325504+00:00",
+    "crawl_count": 1
+  },
+  "www.sanfordhealth.org": {
+    "first_crawled": "2026-08-23T06:55:19.720822+00:00",
+    "last_crawled": "2026-08-23T06:55:19.720822+00:00",
+    "crawl_count": 1
+  },
+  "www.tiopa.org": {
+    "first_crawled": "2026-08-23T06:58:04.559944+00:00",
+    "last_crawled": "2026-08-23T06:58:04.559944+00:00",
+    "crawl_count": 1
+  },
+  "nyulangone.org": {
+    "first_crawled": "2026-08-24T06:43:14.730629+00:00",
+    "last_crawled": "2026-08-24T06:43:14.730629+00:00",
+    "crawl_count": 1
+  },
+  "www.brooklynfreeclinic.org": {
+    "first_crawled": "2026-08-24T06:44:03.536600+00:00",
+    "last_crawled": "2026-08-24T06:44:03.536600+00:00",
+    "crawl_count": 1
+  },
+  "www.tgh.org": {
+    "first_crawled": "2026-08-24T06:46:59.339931+00:00",
+    "last_crawled": "2026-08-24T06:46:59.339931+00:00",
+    "crawl_count": 1
+  },
+  "baycare.org": {
+    "first_crawled": "2026-08-24T06:48:21.987589+00:00",
+    "last_crawled": "2026-08-24T06:48:21.987589+00:00",
+    "crawl_count": 1
+  },
+  "palmsmg.org": {
+    "first_crawled": "2026-08-24T06:53:21.571486+00:00",
+    "last_crawled": "2026-08-24T06:53:21.571486+00:00",
+    "crawl_count": 1
+  },
+  "www.oliveindustrynetwork.com.au": {
+    "first_crawled": "2026-08-24T06:53:28.366142+00:00",
+    "last_crawled": "2026-08-24T06:53:28.366142+00:00",
+    "crawl_count": 1
+  },
+  "grampiansoliveco.com.au": {
+    "first_crawled": "2026-08-24T06:53:30.444009+00:00",
+    "last_crawled": "2026-08-24T06:53:30.444009+00:00",
+    "crawl_count": 1
+  },
+  "founderz.com": {
+    "first_crawled": "2026-08-26T06:45:08.939890+00:00",
+    "last_crawled": "2026-08-26T06:45:08.939890+00:00",
+    "crawl_count": 1
+  },
+  "futurefounders.mx": {
+    "first_crawled": "2026-08-26T06:45:54.426410+00:00",
+    "last_crawled": "2026-08-26T06:45:54.426410+00:00",
+    "crawl_count": 1
+  },
+  "www.justwatch.com": {
+    "first_crawled": "2026-08-26T06:45:55.330510+00:00",
+    "last_crawled": "2026-08-26T06:45:55.330510+00:00",
+    "crawl_count": 1
+  },
+  "www.primevideo.com": {
+    "first_crawled": "2026-08-26T06:45:56.302115+00:00",
+    "last_crawled": "2026-08-26T06:45:56.302115+00:00",
+    "crawl_count": 1
+  },
+  "www.cine.com": {
+    "first_crawled": "2026-08-26T06:45:57.457469+00:00",
+    "last_crawled": "2026-08-26T06:45:57.457469+00:00",
+    "crawl_count": 1
+  },
+  "cmi-medical.com": {
+    "first_crawled": "2026-08-26T06:48:45.260526+00:00",
+    "last_crawled": "2026-08-26T06:48:45.260526+00:00",
+    "crawl_count": 1
+  },
+  "crescentchc.org": {
+    "first_crawled": "2026-08-26T07:03:37.874661+00:00",
+    "last_crawled": "2026-08-26T07:03:37.874661+00:00",
+    "crawl_count": 1
+  },
+  "www.chcseia.com": {
+    "first_crawled": "2026-08-26T07:04:44.305783+00:00",
+    "last_crawled": "2026-08-26T07:04:44.305783+00:00",
+    "crawl_count": 1
+  },
+  "www.inesem.es": {
+    "first_crawled": "2026-08-26T07:10:26.199280+00:00",
+    "last_crawled": "2026-08-26T07:10:26.199280+00:00",
+    "crawl_count": 1
+  },
+  "www.significados.com": {
+    "first_crawled": "2026-08-26T07:10:27.095988+00:00",
+    "last_crawled": "2026-08-26T07:10:27.095988+00:00",
+    "crawl_count": 1
+  },
+  "www.ceste.es": {
+    "first_crawled": "2026-08-26T07:10:29.623597+00:00",
+    "last_crawled": "2026-08-26T07:10:29.623597+00:00",
+    "crawl_count": 1
+  },
+  "towerhealth.org": {
+    "first_crawled": "2026-08-26T07:21:30.327987+00:00",
+    "last_crawled": "2026-08-26T07:21:30.327987+00:00",
+    "crawl_count": 1
+  },
+  "www.mercyone.org": {
+    "first_crawled": "2026-08-26T07:23:58.859778+00:00",
+    "last_crawled": "2026-08-26T07:23:58.859778+00:00",
+    "crawl_count": 1
+  },
+  "www.wsws.org": {
+    "first_crawled": "2026-08-26T07:24:44.418083+00:00",
+    "last_crawled": "2026-08-26T07:24:44.418083+00:00",
+    "crawl_count": 1
+  },
+  "www.today.com": {
+    "first_crawled": "2026-08-26T07:24:57.673375+00:00",
+    "last_crawled": "2026-08-26T07:24:57.673375+00:00",
+    "crawl_count": 1
+  },
+  "executivesdiary.com": {
+    "first_crawled": "2026-08-26T07:29:59.432005+00:00",
+    "last_crawled": "2026-08-26T07:29:59.432005+00:00",
+    "crawl_count": 1
+  },
+  "www.emoryhealthcare.org": {
+    "first_crawled": "2026-08-26T07:31:16.291219+00:00",
+    "last_crawled": "2026-08-26T07:31:16.291219+00:00",
+    "crawl_count": 1
+  },
+  "msdh.ms.gov": {
+    "first_crawled": "2026-08-29T13:19:09.861861+00:00",
+    "last_crawled": "2026-08-29T13:19:09.861861+00:00",
+    "crawl_count": 1
+  },
+  "chccmo.org": {
+    "first_crawled": "2026-08-29T13:19:20.548988+00:00",
+    "last_crawled": "2026-08-29T13:19:20.548988+00:00",
+    "crawl_count": 1
+  },
+  "phcenters.org": {
+    "first_crawled": "2026-08-29T13:19:23.101942+00:00",
+    "last_crawled": "2026-08-29T13:19:23.101942+00:00",
+    "crawl_count": 1
+  },
+  "northwestspecialtyhospital.com": {
+    "first_crawled": "2026-08-29T13:19:32.110020+00:00",
+    "last_crawled": "2026-08-29T13:19:32.110020+00:00",
+    "crawl_count": 1
+  },
+  "greatervalleyhealth.org": {
+    "first_crawled": "2026-08-29T13:19:32.147591+00:00",
+    "last_crawled": "2026-08-29T13:19:32.147591+00:00",
+    "crawl_count": 1
+  },
+  "midstatehealth.org": {
+    "first_crawled": "2026-08-29T13:20:09.418644+00:00",
+    "last_crawled": "2026-08-29T13:20:09.418644+00:00",
+    "crawl_count": 1
+  },
+  "mpcn-ms.com": {
+    "first_crawled": "2026-08-29T13:21:34.521629+00:00",
+    "last_crawled": "2026-08-29T13:21:34.521629+00:00",
+    "crawl_count": 1
+  },
+  "health.missouristate.edu": {
+    "first_crawled": "2026-08-29T13:21:48.613545+00:00",
+    "last_crawled": "2026-08-29T13:21:48.613545+00:00",
+    "crawl_count": 1
+  },
+  "smrmc.com": {
+    "first_crawled": "2026-08-29T13:21:57.960441+00:00",
+    "last_crawled": "2026-08-29T13:21:57.960441+00:00",
+    "crawl_count": 1
+  },
+  "gacfhc.org": {
+    "first_crawled": "2026-08-29T13:22:02.433463+00:00",
+    "last_crawled": "2026-08-29T13:22:02.433463+00:00",
+    "crawl_count": 1
+  },
+  "mountain.commonspirit.org": {
+    "first_crawled": "2026-08-29T13:22:10.124151+00:00",
+    "last_crawled": "2026-08-29T13:22:10.124151+00:00",
+    "crawl_count": 1
+  },
+  "mohospitals.org": {
+    "first_crawled": "2026-08-29T13:22:22.283785+00:00",
+    "last_crawled": "2026-08-29T13:22:22.283785+00:00",
+    "crawl_count": 1
+  },
+  "montanafreepress.org": {
+    "first_crawled": "2026-08-29T13:22:32.669906+00:00",
+    "last_crawled": "2026-08-29T13:22:32.669906+00:00",
+    "crawl_count": 1
+  },
+  "ahd.com": {
+    "first_crawled": "2026-08-29T13:22:42.400816+00:00",
+    "last_crawled": "2026-08-29T13:22:42.400816+00:00",
+    "crawl_count": 1
+  },
+  "bjc.org": {
+    "first_crawled": "2026-08-29T13:22:45.389061+00:00",
+    "last_crawled": "2026-08-29T13:22:45.389061+00:00",
+    "crawl_count": 1
+  },
+  "blufordinstitute.org": {
+    "first_crawled": "2026-08-29T13:22:52.639199+00:00",
+    "last_crawled": "2026-08-29T13:22:52.639199+00:00",
+    "crawl_count": 1
+  },
+  "umc.edu": {
+    "first_crawled": "2026-08-29T13:22:58.420921+00:00",
+    "last_crawled": "2026-08-29T13:22:58.420921+00:00",
+    "crawl_count": 1
+  },
+  "jobs.centracare.com": {
+    "first_crawled": "2026-08-29T13:23:14.789305+00:00",
+    "last_crawled": "2026-08-29T13:23:14.789305+00:00",
+    "crawl_count": 1
+  },
+  "surgassists.com": {
+    "first_crawled": "2026-08-29T13:23:18.863440+00:00",
+    "last_crawled": "2026-08-29T13:23:18.863440+00:00",
+    "crawl_count": 1
+  },
+  "devonexetermedsoc.org": {
+    "first_crawled": "2026-08-29T13:23:24.511817+00:00",
+    "last_crawled": "2026-08-29T13:23:24.511817+00:00",
+    "crawl_count": 1
+  },
+  "soundphysicians.com": {
+    "first_crawled": "2026-08-29T13:23:26.168042+00:00",
+    "last_crawled": "2026-08-29T13:23:26.168042+00:00",
+    "crawl_count": 1
+  },
+  "mauryregional.com": {
+    "first_crawled": "2026-08-29T13:23:27.593972+00:00",
+    "last_crawled": "2026-08-29T13:23:27.593972+00:00",
+    "crawl_count": 1
+  },
+  "lcmchealth.org": {
+    "first_crawled": "2026-08-29T13:23:31.838857+00:00",
+    "last_crawled": "2026-08-29T13:23:31.838857+00:00",
+    "crawl_count": 1
+  },
+  "nm.org": {
+    "first_crawled": "2026-08-29T13:23:37.894563+00:00",
+    "last_crawled": "2026-08-29T13:23:37.894563+00:00",
+    "crawl_count": 1
+  },
+  "lexington-med.com": {
+    "first_crawled": "2026-08-29T13:23:42.877656+00:00",
+    "last_crawled": "2026-08-29T13:23:42.877656+00:00",
+    "crawl_count": 1
+  },
+  "wbur.org": {
+    "first_crawled": "2026-08-29T13:23:43.838080+00:00",
+    "last_crawled": "2026-08-29T13:23:43.838080+00:00",
+    "crawl_count": 1
+  },
+  "nonin.com": {
+    "first_crawled": "2026-08-29T13:23:51.510486+00:00",
+    "last_crawled": "2026-08-29T13:23:51.510486+00:00",
+    "crawl_count": 1
+  },
+  "chkd.org": {
+    "first_crawled": "2026-08-29T13:23:57.363052+00:00",
+    "last_crawled": "2026-08-29T13:23:57.363052+00:00",
+    "crawl_count": 1
+  },
+  "convergeaccess.org": {
+    "first_crawled": "2026-08-29T13:24:01.781056+00:00",
+    "last_crawled": "2026-08-29T13:24:01.781056+00:00",
+    "crawl_count": 1
+  },
+  "prismahealth.org": {
+    "first_crawled": "2026-08-29T13:24:12.336799+00:00",
+    "last_crawled": "2026-08-29T13:24:12.336799+00:00",
+    "crawl_count": 1
+  },
+  "dphhs.mt.gov": {
+    "first_crawled": "2026-08-29T13:24:16.297352+00:00",
+    "last_crawled": "2026-08-29T13:24:16.297352+00:00",
+    "crawl_count": 1
+  },
+  "swhealth.org": {
+    "first_crawled": "2026-08-29T13:24:32.388577+00:00",
+    "last_crawled": "2026-08-29T13:24:32.388577+00:00",
+    "crawl_count": 1
+  },
+  "gfclinic.com": {
+    "first_crawled": "2026-08-29T13:24:35.464982+00:00",
+    "last_crawled": "2026-08-29T13:24:35.464982+00:00",
+    "crawl_count": 1
+  },
+  "pcofiowa.com": {
+    "first_crawled": "2026-08-29T13:24:37.824089+00:00",
+    "last_crawled": "2026-08-29T13:24:37.824089+00:00",
+    "crawl_count": 1
+  },
+  "hannibalregional.org": {
+    "first_crawled": "2026-08-29T13:24:39.323416+00:00",
+    "last_crawled": "2026-08-29T13:24:39.323416+00:00",
+    "crawl_count": 1
+  },
+  "ctmirror.org": {
+    "first_crawled": "2026-08-29T13:24:40.182614+00:00",
+    "last_crawled": "2026-08-29T13:24:40.182614+00:00",
+    "crawl_count": 1
+  },
+  "seacoastonline.com": {
+    "first_crawled": "2026-08-29T13:24:40.855678+00:00",
+    "last_crawled": "2026-08-29T13:24:40.855678+00:00",
+    "crawl_count": 1
+  },
+  "starlingphysicians.com": {
+    "first_crawled": "2026-08-29T13:24:56.683732+00:00",
+    "last_crawled": "2026-08-29T13:24:56.683732+00:00",
+    "crawl_count": 1
+  },
+  "stradahealthcare.com": {
+    "first_crawled": "2026-08-29T13:24:57.766672+00:00",
+    "last_crawled": "2026-08-29T13:24:57.766672+00:00",
+    "crawl_count": 1
+  },
+  "doximity.com": {
+    "first_crawled": "2026-08-29T13:25:08.905497+00:00",
+    "last_crawled": "2026-08-29T13:25:08.905497+00:00",
+    "crawl_count": 1
+  },
+  "docswhocare.com": {
+    "first_crawled": "2026-08-29T13:25:11.786940+00:00",
+    "last_crawled": "2026-08-29T13:25:11.786940+00:00",
+    "crawl_count": 1
+  },
+  "medicoreach.com": {
+    "first_crawled": "2026-08-29T13:25:15.825904+00:00",
+    "last_crawled": "2026-08-29T13:25:15.825904+00:00",
+    "crawl_count": 1
+  },
+  "mvmc.org": {
+    "first_crawled": "2026-08-29T13:25:29.489139+00:00",
+    "last_crawled": "2026-08-29T13:25:29.489139+00:00",
+    "crawl_count": 1
+  },
+  "ohcc.org": {
+    "first_crawled": "2026-08-29T13:25:34.839628+00:00",
+    "last_crawled": "2026-08-29T13:25:34.839628+00:00",
+    "crawl_count": 1
+  },
+  "coxhealth.com": {
+    "first_crawled": "2026-08-29T13:26:01.507733+00:00",
+    "last_crawled": "2026-08-29T13:26:01.507733+00:00",
+    "crawl_count": 1
+  },
+  "mrhc.org": {
+    "first_crawled": "2026-08-29T13:27:38.142394+00:00",
+    "last_crawled": "2026-08-29T13:27:38.142394+00:00",
+    "crawl_count": 1
+  },
+  "mercy.com": {
+    "first_crawled": "2026-08-29T13:29:40.735707+00:00",
+    "last_crawled": "2026-08-29T13:29:40.735707+00:00",
+    "crawl_count": 1
+  },
+  "uchealth.org": {
+    "first_crawled": "2026-08-29T13:30:02.015517+00:00",
+    "last_crawled": "2026-08-29T13:30:02.015517+00:00",
+    "crawl_count": 1
+  },
+  "premierhealth.com": {
+    "first_crawled": "2026-08-29T13:30:15.297055+00:00",
+    "last_crawled": "2026-08-29T13:30:15.297055+00:00",
+    "crawl_count": 1
+  },
+  "signature-healthcare.org": {
+    "first_crawled": "2026-08-29T13:30:59.715502+00:00",
+    "last_crawled": "2026-08-29T13:30:59.715502+00:00",
+    "crawl_count": 1
+  },
+  "unitypoint.org": {
+    "first_crawled": "2026-08-29T13:32:03.984167+00:00",
+    "last_crawled": "2026-08-29T13:32:03.984167+00:00",
+    "crawl_count": 1
+  },
+  "prestigebrands.com": {
+    "first_crawled": "2026-08-29T13:35:28.558186+00:00",
+    "last_crawled": "2026-08-29T13:35:28.558186+00:00",
+    "crawl_count": 1
+  },
+  "scribd.com": {
+    "first_crawled": "2026-08-31T05:29:43.126733+00:00",
+    "last_crawled": "2026-08-31T05:29:43.126733+00:00",
+    "crawl_count": 1
+  },
+  "horizonblue.com": {
+    "first_crawled": "2026-08-31T05:31:07.082854+00:00",
+    "last_crawled": "2026-08-31T05:31:07.082854+00:00",
+    "crawl_count": 1
+  },
+  "business.chambersnj.com": {
+    "first_crawled": "2026-08-31T05:31:11.765799+00:00",
+    "last_crawled": "2026-08-31T05:31:11.765799+00:00",
+    "crawl_count": 1
+  },
+  "uhnj.org": {
+    "first_crawled": "2026-08-31T05:31:16.196462+00:00",
+    "last_crawled": "2026-08-31T05:31:16.196462+00:00",
+    "crawl_count": 1
+  },
+  "projectecho.unm.edu": {
+    "first_crawled": "2026-08-31T05:31:22.644108+00:00",
+    "last_crawled": "2026-08-31T05:31:22.644108+00:00",
+    "crawl_count": 1
+  },
+  "privatehealth.com": {
+    "first_crawled": "2026-08-31T05:31:26.552295+00:00",
+    "last_crawled": "2026-08-31T05:31:26.552295+00:00",
+    "crawl_count": 1
+  },
+  "idsociety.org": {
+    "first_crawled": "2026-08-31T05:31:28.708877+00:00",
+    "last_crawled": "2026-08-31T05:31:28.708877+00:00",
+    "crawl_count": 1
+  },
+  "laconstancecenterforglobalhealth.com": {
+    "first_crawled": "2026-08-31T05:31:29.287820+00:00",
+    "last_crawled": "2026-08-31T05:31:29.287820+00:00",
+    "crawl_count": 1
+  },
+  "healthmetrics.org": {
+    "first_crawled": "2026-08-31T05:31:40.222134+00:00",
+    "last_crawled": "2026-08-31T05:31:40.222134+00:00",
+    "crawl_count": 1
+  },
+  "amoskeaghealth.org": {
+    "first_crawled": "2026-08-31T05:31:40.943204+00:00",
+    "last_crawled": "2026-08-31T05:31:40.943204+00:00",
+    "crawl_count": 1
+  },
+  "nymc.edu": {
+    "first_crawled": "2026-08-31T05:31:41.241294+00:00",
+    "last_crawled": "2026-08-31T05:31:41.241294+00:00",
+    "crawl_count": 1
+  },
+  "consultclarity.org": {
+    "first_crawled": "2026-08-31T05:31:42.203054+00:00",
+    "last_crawled": "2026-08-31T05:31:42.203054+00:00",
+    "crawl_count": 1
+  },
+  "hfma.org": {
+    "first_crawled": "2026-08-31T05:31:45.836602+00:00",
+    "last_crawled": "2026-08-31T05:31:45.836602+00:00",
+    "crawl_count": 1
+  },
+  "thedoctors.com": {
+    "first_crawled": "2026-08-31T05:31:47.563207+00:00",
+    "last_crawled": "2026-08-31T05:31:47.563207+00:00",
+    "crawl_count": 1
+  },
+  "womenshealthct.com": {
+    "first_crawled": "2026-08-31T05:31:48.165114+00:00",
+    "last_crawled": "2026-08-31T05:31:48.165114+00:00",
+    "crawl_count": 1
+  },
+  "rmchcs.org": {
+    "first_crawled": "2026-08-31T05:31:50.385137+00:00",
+    "last_crawled": "2026-08-31T05:31:50.385137+00:00",
+    "crawl_count": 1
+  },
+  "accesstelecare.com": {
+    "first_crawled": "2026-08-31T05:31:52.796798+00:00",
+    "last_crawled": "2026-08-31T05:31:52.796798+00:00",
+    "crawl_count": 1
+  },
+  "sjogcs.org": {
+    "first_crawled": "2026-08-31T05:31:55.516055+00:00",
+    "last_crawled": "2026-08-31T05:31:55.516055+00:00",
+    "crawl_count": 1
+  },
+  "gastrohealth.com": {
+    "first_crawled": "2026-08-31T05:31:55.585791+00:00",
+    "last_crawled": "2026-08-31T05:31:55.585791+00:00",
+    "crawl_count": 1
+  },
+  "natividad.com": {
+    "first_crawled": "2026-08-31T05:31:55.689140+00:00",
+    "last_crawled": "2026-08-31T05:31:55.689140+00:00",
+    "crawl_count": 1
+  },
+  "business.amwell.com": {
+    "first_crawled": "2026-08-31T05:31:55.746200+00:00",
+    "last_crawled": "2026-08-31T05:31:55.746200+00:00",
+    "crawl_count": 1
+  },
+  "rwjbh.org": {
+    "first_crawled": "2026-08-31T05:32:05.660585+00:00",
+    "last_crawled": "2026-08-31T05:32:05.660585+00:00",
+    "crawl_count": 1
+  },
+  "nhms.org": {
+    "first_crawled": "2026-08-31T05:32:06.533583+00:00",
+    "last_crawled": "2026-08-31T05:32:06.533583+00:00",
+    "crawl_count": 1
+  },
+  "ncqa.org": {
+    "first_crawled": "2026-08-31T05:32:09.019961+00:00",
+    "last_crawled": "2026-08-31T05:32:09.019961+00:00",
+    "crawl_count": 1
+  },
+  "hudsonregionalhospital.com": {
+    "first_crawled": "2026-08-31T05:32:11.155971+00:00",
+    "last_crawled": "2026-08-31T05:32:11.155971+00:00",
+    "crawl_count": 1
+  },
+  "casadesaludnm.org": {
+    "first_crawled": "2026-08-31T07:29:27.257411+00:00",
+    "last_crawled": "2026-08-31T07:29:27.257411+00:00",
+    "crawl_count": 1
+  },
+  "ruralhealthinfo.org": {
+    "first_crawled": "2026-08-31T07:29:44.346007+00:00",
+    "last_crawled": "2026-08-31T07:29:44.346007+00:00",
+    "crawl_count": 1
+  },
+  "rrnm.gov": {
+    "first_crawled": "2026-08-31T07:29:53.931990+00:00",
+    "last_crawled": "2026-08-31T07:29:53.931990+00:00",
+    "crawl_count": 1
+  },
+  "health.ny.gov": {
+    "first_crawled": "2026-08-31T07:29:55.256591+00:00",
+    "last_crawled": "2026-08-31T07:29:55.256591+00:00",
+    "crawl_count": 1
+  },
+  "njha.com": {
+    "first_crawled": "2026-08-31T07:29:56.790293+00:00",
+    "last_crawled": "2026-08-31T07:29:56.790293+00:00",
+    "crawl_count": 1
+  },
+  "hsc.unm.edu": {
+    "first_crawled": "2026-08-31T07:29:57.406810+00:00",
+    "last_crawled": "2026-08-31T07:29:57.406810+00:00",
+    "crawl_count": 1
+  },
+  "encyclopediaofalabama.org": {
+    "first_crawled": "2026-08-31T07:30:06.521025+00:00",
+    "last_crawled": "2026-08-31T07:30:06.521025+00:00",
+    "crawl_count": 1
+  },
+  "tbh.org": {
+    "first_crawled": "2026-08-31T07:30:10.629778+00:00",
+    "last_crawled": "2026-08-31T07:30:10.629778+00:00",
+    "crawl_count": 1
+  },
+  "news.dom.pitt.edu": {
+    "first_crawled": "2026-08-31T07:30:15.598203+00:00",
+    "last_crawled": "2026-08-31T07:30:15.598203+00:00",
+    "crawl_count": 1
+  },
+  "mcphs.edu": {
+    "first_crawled": "2026-08-31T07:30:20.623121+00:00",
+    "last_crawled": "2026-08-31T07:30:20.623121+00:00",
+    "crawl_count": 1
+  },
+  "hcn.org": {
+    "first_crawled": "2026-08-31T07:30:24.098108+00:00",
+    "last_crawled": "2026-08-31T07:30:24.098108+00:00",
+    "crawl_count": 1
+  },
+  "mft.nhs.uk": {
+    "first_crawled": "2026-08-31T07:30:25.839192+00:00",
+    "last_crawled": "2026-08-31T07:30:25.839192+00:00",
+    "crawl_count": 1
+  },
+  "providenthp.com": {
+    "first_crawled": "2026-08-31T07:30:27.313559+00:00",
+    "last_crawled": "2026-08-31T07:30:27.313559+00:00",
+    "crawl_count": 1
+  },
+  "vbch.org": {
+    "first_crawled": "2026-08-31T07:30:30.324838+00:00",
+    "last_crawled": "2026-08-31T07:30:30.324838+00:00",
+    "crawl_count": 1
+  },
+  "hcahealthcare.co.uk": {
+    "first_crawled": "2026-08-31T07:30:33.385648+00:00",
+    "last_crawled": "2026-08-31T07:30:33.385648+00:00",
+    "crawl_count": 1
+  },
+  "spirehealthcare.com": {
+    "first_crawled": "2026-08-31T07:30:59.179012+00:00",
+    "last_crawled": "2026-08-31T07:30:59.179012+00:00",
+    "crawl_count": 1
+  },
+  "hfnj.org": {
+    "first_crawled": "2026-08-31T07:31:01.001298+00:00",
+    "last_crawled": "2026-08-31T07:31:01.001298+00:00",
+    "crawl_count": 1
+  },
+  "bhamnow.com": {
+    "first_crawled": "2026-08-31T07:31:01.881947+00:00",
+    "last_crawled": "2026-08-31T07:31:01.881947+00:00",
+    "crawl_count": 1
+  },
+  "midlandhealth.co.uk": {
+    "first_crawled": "2026-08-31T07:31:08.882023+00:00",
+    "last_crawled": "2026-08-31T07:31:08.882023+00:00",
+    "crawl_count": 1
+  },
+  "jnj.com": {
+    "first_crawled": "2026-08-31T12:13:39.699580+00:00",
+    "last_crawled": "2026-08-31T12:13:39.699580+00:00",
+    "crawl_count": 1
+  },
+  "njhalloffame.org": {
+    "first_crawled": "2026-08-31T12:13:40.417136+00:00",
+    "last_crawled": "2026-08-31T12:13:40.417136+00:00",
+    "crawl_count": 1
+  },
+  "njlandrecords.org": {
+    "first_crawled": "2026-08-31T12:13:40.475720+00:00",
+    "last_crawled": "2026-08-31T12:13:40.475720+00:00",
+    "crawl_count": 1
+  },
+  "yorksandhumberdeanery.nhs.uk": {
+    "first_crawled": "2026-08-31T12:14:03.271132+00:00",
+    "last_crawled": "2026-08-31T12:14:03.271132+00:00",
+    "crawl_count": 1
+  },
+  "njhcqi.org": {
+    "first_crawled": "2026-08-31T12:15:00.684813+00:00",
+    "last_crawled": "2026-08-31T12:15:00.684813+00:00",
+    "crawl_count": 1
+  },
+  "specialistinfo.com": {
+    "first_crawled": "2026-08-31T12:15:40.412499+00:00",
+    "last_crawled": "2026-08-31T12:15:40.412499+00:00",
+    "crawl_count": 1
+  },
+  "cqc.org.uk": {
+    "first_crawled": "2026-08-31T12:15:43.819275+00:00",
+    "last_crawled": "2026-08-31T12:15:43.819275+00:00",
+    "crawl_count": 1
+  },
+  "nuffieldhealth.com": {
+    "first_crawled": "2026-08-31T12:15:54.980839+00:00",
+    "last_crawled": "2026-08-31T12:15:54.980839+00:00",
+    "crawl_count": 1
+  },
+  "jrfnj.org": {
+    "first_crawled": "2026-08-31T12:16:15.482078+00:00",
+    "last_crawled": "2026-08-31T12:16:15.482078+00:00",
+    "crawl_count": 1
+  },
+  "manchesternh.gov": {
+    "first_crawled": "2026-08-31T12:16:21.018726+00:00",
+    "last_crawled": "2026-08-31T12:16:21.018726+00:00",
+    "crawl_count": 1
+  },
+  "leeds-clinic.co.uk": {
+    "first_crawled": "2026-08-31T12:17:02.333556+00:00",
+    "last_crawled": "2026-08-31T12:17:02.333556+00:00",
+    "crawl_count": 1
+  },
+  "swslhd.health.nsw.gov.au": {
+    "first_crawled": "2026-09-01T10:50:13.943125+00:00",
+    "last_crawled": "2026-09-01T10:50:13.943125+00:00",
+    "crawl_count": 1
+  },
+  "healthdirect.gov.au": {
+    "first_crawled": "2026-09-01T10:50:14.732053+00:00",
+    "last_crawled": "2026-09-01T10:50:14.732053+00:00",
+    "crawl_count": 1
+  },
+  "topdoctors.co.uk": {
+    "first_crawled": "2026-09-01T10:50:49.616620+00:00",
+    "last_crawled": "2026-09-01T10:50:49.616620+00:00",
+    "crawl_count": 1
+  },
+  "elanic.co.uk": {
+    "first_crawled": "2026-09-01T10:51:48.926377+00:00",
+    "last_crawled": "2026-09-01T10:51:48.926377+00:00",
+    "crawl_count": 1
+  },
+  "aspen-healthcare.co.uk": {
+    "first_crawled": "2026-09-01T10:51:51.211743+00:00",
+    "last_crawled": "2026-09-01T10:51:51.211743+00:00",
+    "crawl_count": 1
+  },
+  "clinisys.com": {
+    "first_crawled": "2026-09-01T10:51:51.882471+00:00",
+    "last_crawled": "2026-09-01T10:51:51.882471+00:00",
+    "crawl_count": 1
+  },
+  "hhs.nd.gov": {
+    "first_crawled": "2026-09-01T10:51:52.773458+00:00",
+    "last_crawled": "2026-09-01T10:51:52.773458+00:00",
+    "crawl_count": 1
+  },
+  "fmdh.org": {
+    "first_crawled": "2026-09-01T10:51:54.240043+00:00",
+    "last_crawled": "2026-09-01T10:51:54.240043+00:00",
+    "crawl_count": 1
+  },
+  "library.ndsu.edu": {
+    "first_crawled": "2026-09-01T10:52:04.695139+00:00",
+    "last_crawled": "2026-09-01T10:52:04.695139+00:00",
+    "crawl_count": 1
+  },
+  "benenden.co.uk": {
+    "first_crawled": "2026-09-01T10:52:08.503888+00:00",
+    "last_crawled": "2026-09-01T10:52:08.503888+00:00",
+    "crawl_count": 1
+  },
+  "uhhospitals.org": {
+    "first_crawled": "2026-09-01T10:52:40.732833+00:00",
+    "last_crawled": "2026-09-01T10:52:40.732833+00:00",
+    "crawl_count": 1
+  },
+  "thelostogle.com": {
+    "first_crawled": "2026-09-02T10:14:17.384950+00:00",
+    "last_crawled": "2026-09-02T10:14:17.384950+00:00",
+    "crawl_count": 1
+  },
+  "gateway.okhistory.org": {
+    "first_crawled": "2026-09-02T10:14:17.677267+00:00",
+    "last_crawled": "2026-09-02T10:14:17.677267+00:00",
+    "crawl_count": 1
+  },
+  "specialists.healthscope.com.au": {
+    "first_crawled": "2026-09-02T10:14:44.310965+00:00",
+    "last_crawled": "2026-09-02T10:14:44.310965+00:00",
+    "crawl_count": 1
+  },
+  "newcastleprivatehospital.com.au": {
+    "first_crawled": "2026-09-02T10:14:44.335807+00:00",
+    "last_crawled": "2026-09-02T10:14:44.335807+00:00",
+    "crawl_count": 1
+  },
+  "pacharitablehealth.org": {
+    "first_crawled": "2026-09-02T10:15:48.137386+00:00",
+    "last_crawled": "2026-09-02T10:15:48.137386+00:00",
+    "crawl_count": 1
+  },
+  "clackamas.us": {
+    "first_crawled": "2026-09-02T10:15:48.686908+00:00",
+    "last_crawled": "2026-09-02T10:15:48.686908+00:00",
+    "crawl_count": 1
+  },
+  "oregon.gov": {
+    "first_crawled": "2026-09-02T10:15:58.452211+00:00",
+    "last_crawled": "2026-09-02T10:15:58.452211+00:00",
+    "crawl_count": 1
+  },
+  "cityandstatepa.com": {
+    "first_crawled": "2026-09-02T10:16:01.407704+00:00",
+    "last_crawled": "2026-09-02T10:16:01.407704+00:00",
+    "crawl_count": 1
+  },
+  "ohsu.edu": {
+    "first_crawled": "2026-09-02T10:16:05.085077+00:00",
+    "last_crawled": "2026-09-02T10:16:05.085077+00:00",
+    "crawl_count": 1
+  },
+  "providence.org": {
+    "first_crawled": "2026-09-02T10:16:10.956532+00:00",
+    "last_crawled": "2026-09-02T10:16:10.956532+00:00",
+    "crawl_count": 1
+  },
+  "uhbristol.nhs.uk": {
+    "first_crawled": "2026-09-02T10:16:14.021897+00:00",
+    "last_crawled": "2026-09-02T10:16:14.021897+00:00",
+    "crawl_count": 1
+  },
+  "lloydsclinical.com": {
+    "first_crawled": "2026-09-02T10:16:17.804182+00:00",
+    "last_crawled": "2026-09-02T10:16:17.804182+00:00",
+    "crawl_count": 1
+  },
+  "sheffield.ac.uk": {
+    "first_crawled": "2026-09-02T10:16:23.960223+00:00",
+    "last_crawled": "2026-09-02T10:16:23.960223+00:00",
+    "crawl_count": 1
+  },
+  "focuscentralpa.org": {
+    "first_crawled": "2026-09-02T10:16:25.403169+00:00",
+    "last_crawled": "2026-09-02T10:16:25.403169+00:00",
+    "crawl_count": 1
+  },
+  "sheffieldpartnership.nhs.uk": {
+    "first_crawled": "2026-09-02T10:16:31.872112+00:00",
+    "last_crawled": "2026-09-02T10:16:31.872112+00:00",
+    "crawl_count": 1
+  },
+  "oklahoman.com": {
+    "first_crawled": "2026-09-02T10:16:32.036944+00:00",
+    "last_crawled": "2026-09-02T10:16:32.036944+00:00",
+    "crawl_count": 1
+  },
+  "nhcoregon.org": {
+    "first_crawled": "2026-09-02T10:16:32.613479+00:00",
+    "last_crawled": "2026-09-02T10:16:32.613479+00:00",
+    "crawl_count": 1
+  },
+  "abc3340.com": {
+    "first_crawled": "2026-09-07T07:34:23.435889+00:00",
+    "last_crawled": "2026-09-07T07:34:23.435889+00:00",
+    "crawl_count": 1
+  },
+  "mn.gov": {
+    "first_crawled": "2026-09-07T07:34:41.086551+00:00",
+    "last_crawled": "2026-09-07T07:34:41.086551+00:00",
+    "crawl_count": 1
+  },
+  "dyn.the-exeter.com": {
+    "first_crawled": "2026-09-07T07:34:46.431379+00:00",
+    "last_crawled": "2026-09-07T07:34:46.431379+00:00",
+    "crawl_count": 1
+  },
+  "techstars.com": {
+    "first_crawled": "2026-09-07T07:35:21.553859+00:00",
+    "last_crawled": "2026-09-07T07:35:21.553859+00:00",
+    "crawl_count": 1
+  },
+  "froedtert.com": {
+    "first_crawled": "2026-09-07T07:35:42.125733+00:00",
+    "last_crawled": "2026-09-07T07:35:42.125733+00:00",
+    "crawl_count": 1
+  },
+  "dailymail.com": {
+    "first_crawled": "2026-09-07T07:35:52.150708+00:00",
+    "last_crawled": "2026-09-07T07:35:52.150708+00:00",
+    "crawl_count": 1
+  },
+  "ramsayhealth.co.uk": {
+    "first_crawled": "2026-09-07T07:35:53.730902+00:00",
+    "last_crawled": "2026-09-07T07:35:53.730902+00:00",
+    "crawl_count": 1
+  },
+  "alaha.org": {
+    "first_crawled": "2026-09-07T07:35:54.695487+00:00",
+    "last_crawled": "2026-09-07T07:35:54.695487+00:00",
+    "crawl_count": 1
+  },
+  "jackson.org": {
+    "first_crawled": "2026-09-07T07:35:55.598218+00:00",
+    "last_crawled": "2026-09-07T07:35:55.598218+00:00",
+    "crawl_count": 1
+  },
+  "hwdpt.org": {
+    "first_crawled": "2026-09-07T07:35:56.879293+00:00",
+    "last_crawled": "2026-09-07T07:35:56.879293+00:00",
+    "crawl_count": 1
+  },
+  "plymouth.edu": {
+    "first_crawled": "2026-09-07T07:35:56.904377+00:00",
+    "last_crawled": "2026-09-07T07:35:56.904377+00:00",
+    "crawl_count": 1
+  },
+  "foundationhealth.org": {
+    "first_crawled": "2026-09-07T10:12:12.702257+00:00",
+    "last_crawled": "2026-09-07T10:12:12.702257+00:00",
+    "crawl_count": 1
+  },
+  "covwarkpt.nhs.uk": {
+    "first_crawled": "2026-09-07T10:12:18.485146+00:00",
+    "last_crawled": "2026-09-07T10:12:18.485146+00:00",
+    "crawl_count": 1
+  },
+  "uhcw.nhs.uk": {
+    "first_crawled": "2026-09-07T10:12:23.192882+00:00",
+    "last_crawled": "2026-09-07T10:12:23.192882+00:00",
+    "crawl_count": 1
+  },
+  "castleconnolly.com": {
+    "first_crawled": "2026-09-07T11:06:26.767868+00:00",
+    "last_crawled": "2026-09-07T11:06:26.767868+00:00",
+    "crawl_count": 1
+  },
+  "hhsi.us": {
+    "first_crawled": "2026-09-07T11:06:36.317203+00:00",
+    "last_crawled": "2026-09-07T11:06:36.317203+00:00",
+    "crawl_count": 1
+  },
+  "autism-clinic.ua.edu": {
+    "first_crawled": "2026-09-07T11:07:22.060282+00:00",
+    "last_crawled": "2026-09-07T11:07:22.060282+00:00",
+    "crawl_count": 1
+  },
+  "genesishcc.com": {
+    "first_crawled": "2026-09-07T11:07:25.812576+00:00",
+    "last_crawled": "2026-09-07T11:07:25.812576+00:00",
+    "crawl_count": 1
+  },
+  "atriushealth.org": {
+    "first_crawled": "2026-09-07T11:07:29.265707+00:00",
+    "last_crawled": "2026-09-07T11:07:29.265707+00:00",
+    "crawl_count": 1
+  },
+  "wgu.edu": {
+    "first_crawled": "2026-09-07T11:07:30.297605+00:00",
+    "last_crawled": "2026-09-07T11:07:30.297605+00:00",
+    "crawl_count": 1
+  },
+  "ykhc.org": {
+    "first_crawled": "2026-09-07T11:07:34.207160+00:00",
+    "last_crawled": "2026-09-07T11:07:34.207160+00:00",
+    "crawl_count": 1
+  },
+  "aachc.org": {
+    "first_crawled": "2026-09-07T11:07:37.059034+00:00",
+    "last_crawled": "2026-09-07T11:07:37.059034+00:00",
+    "crawl_count": 1
+  },
+  "southshorehealth.org": {
+    "first_crawled": "2026-09-07T11:07:38.088404+00:00",
+    "last_crawled": "2026-09-07T11:07:38.088404+00:00",
+    "crawl_count": 1
+  },
+  "svt.org": {
+    "first_crawled": "2026-09-07T11:07:47.837143+00:00",
+    "last_crawled": "2026-09-07T11:07:47.837143+00:00",
+    "crawl_count": 1
+  },
+  "infirmaryhealth.org": {
+    "first_crawled": "2026-09-07T11:07:51.332931+00:00",
+    "last_crawled": "2026-09-07T11:07:51.332931+00:00",
+    "crawl_count": 1
+  },
+  "theblaze.com": {
+    "first_crawled": "2026-09-08T10:19:05.458883+00:00",
+    "last_crawled": "2026-09-08T10:19:05.458883+00:00",
+    "crawl_count": 1
+  },
+  "medichem-pharmacy.co.uk": {
+    "first_crawled": "2026-09-08T10:19:18.401167+00:00",
+    "last_crawled": "2026-09-08T10:19:18.401167+00:00",
+    "crawl_count": 1
+  },
+  "debbieellis.co.uk": {
+    "first_crawled": "2026-09-08T10:19:18.468311+00:00",
+    "last_crawled": "2026-09-08T10:19:18.468311+00:00",
+    "crawl_count": 1
+  },
+  "corvidahealthclinic.org": {
+    "first_crawled": "2026-09-08T10:20:17.779372+00:00",
+    "last_crawled": "2026-09-08T10:20:17.779372+00:00",
+    "crawl_count": 1
+  },
+  "sihf.org": {
+    "first_crawled": "2026-09-08T10:20:30.939014+00:00",
+    "last_crawled": "2026-09-08T10:20:30.939014+00:00",
+    "crawl_count": 1
+  },
+  "cuanschutz.edu": {
+    "first_crawled": "2026-09-08T10:20:32.521737+00:00",
+    "last_crawled": "2026-09-08T10:20:32.521737+00:00",
+    "crawl_count": 1
+  },
+  "dhs.lacounty.gov": {
+    "first_crawled": "2026-09-08T10:20:36.758472+00:00",
+    "last_crawled": "2026-09-08T10:20:36.758472+00:00",
+    "crawl_count": 1
+  },
+  "aeroleads.com": {
+    "first_crawled": "2026-09-08T10:20:37.742616+00:00",
+    "last_crawled": "2026-09-08T10:20:37.742616+00:00",
+    "crawl_count": 1
+  }
+}

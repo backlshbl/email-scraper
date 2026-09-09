@@ -1,0 +1,51 @@
+name: Sync Leads to Brevo
+
+on:
+  # Manual Brevo-only sync; does not run the email scraper.
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          cache: pip
+          cache-dependency-path: |
+            pyproject.toml
+            requirements.txt
+
+      - name: Install dependencies
+        run: python -m pip install --disable-pip-version-check -r requirements.txt
+
+      - name: Check Brevo configuration
+        env:
+          BREVO_API_KEY: ${{ secrets.BREVO_API_KEY }}
+        run: |
+          if [ -z "$BREVO_API_KEY" ]; then
+            echo "BREVO_API_KEY repository secret is required."
+            exit 1
+          fi
+
+      - name: Sync all saved leads to Brevo
+        env:
+          BREVO_API_KEY: ${{ secrets.BREVO_API_KEY }}
+          BREVO_LIST_ID: ${{ vars.BREVO_LIST_ID || '20' }}
+        run: email-lead-brevo-sync output/leads.csv
+
+      - name: Generate run summary
+        if: success()
+        run: |
+          LEAD_COUNT=$(tail -n +2 output/leads.csv | wc -l)
+          echo "## Brevo Sync Complete" >> $GITHUB_STEP_SUMMARY
+          echo "Synced ${LEAD_COUNT} saved lead rows from output/leads.csv." >> $GITHUB_STEP_SUMMARY

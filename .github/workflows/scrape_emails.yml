@@ -1,0 +1,96 @@
+name: Daily Email Lead Scraper
+
+on:
+  # Run every day at 06:00 UTC (11:30 AM IST)
+  schedule:
+    - cron: '0 6 * * *'
+
+  # Allow manual trigger from GitHub UI
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    env:
+      PYTHONUNBUFFERED: "1"
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          cache: pip
+          cache-dependency-path: |
+            pyproject.toml
+            requirements.txt
+
+      - name: Install dependencies
+        run: python -m pip install --disable-pip-version-check -r requirements.txt
+
+      - name: Restore crawl cache
+        uses: actions/cache@v4
+        with:
+          path: output/crawl_cache.sqlite
+          key: crawl-cache-${{ runner.os }}-${{ github.ref_name }}-${{ github.run_id }}
+          restore-keys: |
+            crawl-cache-${{ runner.os }}-${{ github.ref_name }}-
+
+      - name: Run email scraper (Mode A — search-based)
+        env:
+          HUNTER_API_KEYS: ${{ secrets.HUNTER_API_KEYS }}
+          HUNTER_API_KEY: ${{ secrets.HUNTER_API_KEY }}
+        run: |
+          HUNTER_ARGS=""
+          if [ -n "$HUNTER_API_KEYS" ] || [ -n "$HUNTER_API_KEY" ]; then
+            HUNTER_ARGS="--hunter-enrich --hunter-max-requests 50"
+          else
+            echo "No Hunter API keys are configured; continuing without Hunter enrichment."
+          fi
+          email-lead-scraper \
+            --config config/scraper.json \
+            --fresh-output \
+            --output output/leads_today.csv \
+            $HUNTER_ARGS
+
+      - name: Merge into cumulative CSV
+        run: email-lead-merge output/leads_today.csv output/leads.csv
+
+      - name: Sync today's emails to Brevo
+        env:
+          BREVO_API_KEY: ${{ secrets.BREVO_API_KEY }}
+          BREVO_LIST_ID: ${{ vars.BREVO_LIST_ID || '20' }}
+        run: email-lead-brevo-sync output/leads_today.csv
+
+      - name: Generate run summary
+        run: |
+          echo "## 📧 Email Scraper Results — $(date -u '+%Y-%m-%d %H:%M UTC')" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          if [ -f output/leads_today.csv ]; then
+            TODAY_COUNT=$(tail -n +2 output/leads_today.csv | wc -l)
+            echo "**Today's run:** ${TODAY_COUNT} emails found" >> $GITHUB_STEP_SUMMARY
+          fi
+          if [ -f output/leads.csv ]; then
+            TOTAL_COUNT=$(tail -n +2 output/leads.csv | wc -l)
+            echo "**Cumulative total:** ${TOTAL_COUNT} unique emails" >> $GITHUB_STEP_SUMMARY
+          fi
+
+      - name: Commit and push results
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add output/leads.csv output/leads_today.csv output/crawled_sites.json
+          git add output/hunter_cache.json 2>/dev/null || true
+          # Only commit if there are changes
+          if git diff --cached --quiet; then
+            echo "No new emails found — skipping commit."
+          else
+            git commit -m "🤖 Daily scrape: $(date -u '+%Y-%m-%d') — $(tail -n +2 output/leads_today.csv | wc -l) emails"
+            git push
+          fi
