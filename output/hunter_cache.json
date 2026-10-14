@@ -1178,5 +1178,13 @@
     "hunter_sources": "[{\"domain\": \"castleconnolly.com\", \"uri\": \"https://castleconnolly.com/about-us/contact-us\", \"extracted_on\": \"2022-07-12\", \"last_seen_on\": \"2026-07-19\", \"still_on_page\": true}, {\"domain\": \"castleconnolly.com\", \"uri\": \"https://castleconnolly.com/top-doctor-promotional-opportunities\", \"extracted_on\": \"2022-10-16\", \"last_seen_on\": \"2026-06-16\", \"still_on_page\": true}, {\"domain\": \"castleconnolly.com\", \"uri\": \"https://castleconnolly.com/magazine-and-newspaper-healthcare-partnerships\", \"extracted_on\": \"2022-10-16\", \"last_seen_on\": \"2026-06-15\", \"still_on_page\": true}, {\"domain\": \"citymag.org\", \"uri\": \"https://citymag.org/vendors/castle-connolly\", \"extracted_on\": \"2022-07-05\", \"last_seen_on\": \"2024-05-22\", \"still_on_page\": false}]",
     "hunter_checked_at": "2026-09-07",
     "hunter_action": "verify"
+  },
+  "961d737d83171bfc815691bc7150841c88bbb2661a272289567dea630c1fdd8b": {
+    "hunter_email": "",
+    "hunter_status": "",
+    "hunter_score": "",
+    "hunter_sources": "[]",
+    "hunter_checked_at": "2026-10-14",
+    "hunter_action": "domain_search"
   }
 }
